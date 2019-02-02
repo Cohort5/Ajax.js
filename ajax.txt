@@ -1,0 +1,30 @@
+Asynchronous JavaScript vs1 - What is Asynchronous JavaScript?
+https://www.youtube.com/watch?v=YxWMxJONp7E&list=PL4cUxeGkcC9jAhrjtZ9U93UMIhnCc44MH 
+    
+    Synchronus JS - waits for one action to complete before moving onto the next (false)
+        javascript code runs on a single thread (can do 1 thing at a time)
+        the code waits for 1 action to complete before moving on to the next
+        request runs and awaits until it that file is completely read, blocking the rest of the code
+        var = readSync(); console.log();
+        
+    Asynchronous JS - JS you write only runs on one thread (true) 
+        request runs outside of JS, then callback function adds it on to the que
+        readSync( , function(){console.log()};
+        
+    Async Flow Control - 
+        Callbacks - good
+        Promises - better
+        Generators - awesome
+        
+Asynchronous JavaScript vs2 - AJAX Requests
+    Communicate with a server by making an http request
+    No need to reload the page
+    StandS for: Asynchronous JavaScript and XML/JSON (data file suited for JS)
+    
+    
+    
+    
+        
+    
+        
+        
