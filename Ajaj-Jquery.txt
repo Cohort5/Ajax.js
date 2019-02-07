@@ -1,0 +1,31 @@
+JQWERY is short hand for JavaScript - API
+Ajax and Xhr-get data from API
+Build a second API
+finish twitch and weather api
+MEAN AND MERN
+
+https://api.github.com/users
+
+HW: AJAX and XHR tutorial
+
+Complete the following tutorial using cloud 9. Create a new branch (git checkout -b min10) after every ten minutes of coding or so. Paste the link to your repo here and submit.
+
+https://www.youtube.com/watch?v=82hnvUYY6QA
+
+AJAX Crash Course (Vanilla JavaScript)
+    Asynchronous JavaScript & XML
+    JavaScriptj Object Notation - JSON (API or Plain TXT)
+    Faster text updates, 
+    JQuery library for DOM manipulation only
+    XHR() is an API in the form of an object
+    Libraries & other Methods to make things easier
+    Plain Vanilla JavaScript Request using XHR()
+    
+    
+    
+    
+
+
+
+
+
